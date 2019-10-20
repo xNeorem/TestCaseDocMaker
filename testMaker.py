@@ -85,6 +85,6 @@ result = _combine_docx(result)
 
 result.save("result.docx")
 
-print("test case creati con successo")
+print("test case creati con successo in result.docx")
 
 f.close()
