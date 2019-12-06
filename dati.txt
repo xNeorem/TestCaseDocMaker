@@ -5,3 +5,9 @@ NeoremEmail g.gullo@studenti.unisa.it g.gullo@studenti.unisa.it g.gullo@studenti
 NeoremSesso M M M M M M M M M M null M
 NeoremPassword password password password password password password password password password password password pass password
 NeoremRePass password password password password password password password password password password password pass passsword password
+NeoremCF ciao
+NeoremMatricola cdsacdsc
+NeoremData 20/08/2020 20/10/2030
+NeoremCittad provaa
+NeoremResidenza provaa
+NeoremNumero 551541484

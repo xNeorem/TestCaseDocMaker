@@ -33,7 +33,7 @@ for key, value in d.items():
 result = []
 
 for i in range(0, lun):
-    document = Document("./prova.docx")
+    document = Document("./templadeTCD.docx")
     for table in document.tables:
 
         for row in table.rows:
