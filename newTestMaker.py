@@ -16,11 +16,13 @@ with open("dati.txt") as f:
 lista = d['NeoremID']
 rad = d['NeoremID'][0]
 lun = int(d['NeoremID'][1])
-lista[0] = rad+str(1)
-lista[1] = rad+str(2)
+lista[0] = rad+"0"
+lista[1] = rad+str(1)
 
-for i in range(3, lun+1):
+for i in range(2, lun+1):
     lista.append(rad + str(i))
+
+print(lista)
 
 for key, value in d.items():
     if(len(value) != lun):

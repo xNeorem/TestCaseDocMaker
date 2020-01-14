@@ -1,5 +1,5 @@
-NeoremID;TC_18_0;20
-NeoremNumero;6
+NeoremID;TC_18_;20
+NeoremNumero;6;7;9;10;
 NeoremSede;Via Napoli 10, Roma
 NeoremInizio;03/02/2020
 NeoremObiettivi;Progettazione e creazione di un e-commerce funzionate
