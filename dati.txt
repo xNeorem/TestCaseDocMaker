@@ -1,13 +1,12 @@
-NeoremID TC_1. 14
-NeoremNome null Gianframmarcangelomaria Gerardo1 Gerardo
-NeoremCognome Gullo Gullo Gullo null Gianframmarcangelomaria Gullo1 Gullo
-NeoremEmail g.gullo@studenti.unisa.it g.gullo@studenti.unisa.it g.gullo@studenti.unisa.it g.gullo@studenti.unisa.it g.gullo@studenti.unisa.it g.gullo@studenti.unisa.it null b.d@studenti.unisa.it g.gullo@gmail.com g.gullo@studenti.unisa.it
-NeoremSesso M M M M M M M M M M null M
-NeoremPassword password password password password password password password password password password password pass password
-NeoremRePass password password password password password password password password password password password pass passsword password
-NeoremCF ciao
-NeoremMatricola cdsacdsc
-NeoremData 20/08/2020 20/10/2030
-NeoremCittad provaa
-NeoremResidenza provaa
-NeoremNumero 551541484
+NeoremID;TC_18_0;20
+NeoremNumero;6
+NeoremSede;Via Napoli 10, Roma
+NeoremInizio;03/02/2020
+NeoremObiettivi;Progettazione e creazione di un e-commerce funzionate
+NeoremComp;Lo studente deve avere delle conoscenze in merito alla programmazione web
+NeoremAC;Lo studente deve seguire dei corsi all'interno dell'azienda
+NeoremMod;Lo studente deve seguire la routine di un dipendente della nostra azienda
+NeoremFine;03/03/2020
+NeoremOra; 9-13 14-18 da Lunedi a Venerdi'
+NeoremRC;0469875431
+NeoremPoliz;464612464

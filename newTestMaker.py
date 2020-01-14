@@ -6,7 +6,7 @@ from docx import Document
 d = {}
 with open("dati.txt") as f:
     for line in f:
-        (key, *val) = line.split()
+        (key, *val) = line.split(";")
         for e in range(0, len(val)):
             if val[e] == "null":
                 val[e] = " "
